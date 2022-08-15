@@ -1,42 +1,52 @@
 [
   {
     "id": 1,
-    "markets":"",
+    "markets":"Plastics, Rubber",
     "category":"",
-    "name":"",
-    "region":"",
-    "link",
+    "image":"https://www.imerys.com/public/styles/top_content_image_narrow/public/2022-07/banner-product-range-imershield.jpg.webp?itok=8taFuJg_",
+    "name":"ImerShield™",
+    "region":"All Regions",
+    "link":"https://www.imerys.com/product-ranges/imershield",
+    "description":"ImerShield performance mineral synergists specially developed for flame retardant applications in polymers"
   },
   {
     "id": 2,
-    "markets":"",
+    "markets":"Cosmetics & Personal Care",
     "category":"",
-    "name":"",
-    "region":"",
-    "link",
+    "image":"https://www.imerys.com/public/styles/top_content_image_narrow/public/2022-04/product-range-ImerCare-Matte-pioneer-logo.png.webp?itok=hKQUJv0o",
+    "name":"ImerCare® 6M",
+    "region":"All Regions",
+    "link":"https://www.imerys.com/product-ranges/imercare-6m",
+    "description":"ImerCare 6M is a sustainable French mica that delivers cohesiveness and excellent sensorial and optical properties in pressed powders such as eye shadows, blushes and face powders."
   },
   {
     "id": 3,
-    "markets":"",
+    "markets":"Adhesives, Caulks & Sealants",
     "category":"",
-    "name":"",
-    "region":"",
-    "link",
+    "image":"https://www.imerys.com/public/styles/top_content_image_narrow/public/2021-11/Product%20range-ImerCarb%20for%20ASC%20market.jpg.webp?itok=lkhtsRWv",
+    "name":"ImerCarb™",
+    "region":"All Regions",
+    "link":"https://www.imerys.com/product-ranges/imercarb",
+    "description":"Our ImerCarb range is a cost-effective ground calcium carbonate with lower oil absorption, higher loading capacity, lower abrasion properties and a range of other benefits for adhesives and solvents."
   },
   {
     "id": 4,
-    "markets":"",
+    "markets":"Energy & Evironment",
     "category":"",
-    "name":"",
-    "region":"",
-    "link",
+    "image":"https://www.imerys.com/public/styles/top_content_image_narrow/public/2022-01/Product%20range-ImerCoal%20cover%20image.png.webp?itok=oNTLBdJp",
+    "name":"ImerCoal®",
+    "region":"All Regions",
+    "link":"https://www.imerys.com/product-ranges/imercoal",
+    "description":"We have developed a product that reduces the impact of explosions in coal mines, creating safer conditions for workers."
   },
   {
     "id": 5,
-    "markets":"",
+    "markets":"Food & Beverage",
     "category":"",
-    "name":"",
-    "region":"",
-    "link",
+    "image":"https://www.imerys.com/public/styles/top_content_image_narrow/public/2022-03/whole-grain-goodness-7HCCZN6.jpg.webp?itok=eKH62Kpp",
+    "name":"I-Blūm™",
+    "region":"All Regions",
+    "link":"https://www.imerys.com/product-ranges/i-blum",
+    "description":"For enhanced calcium content in all kinds of foods and beverages, try our specially engineered I-Blūm line of calcium carbonate additives."
   }
 ]
